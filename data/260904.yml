@@ -1,0 +1,59 @@
+about:
+  description:
+  |
+    Generate text, images, video, speech, and music by MiniMax.
+  license: NOASSERTION
+  homepage: https://platform.minimax.io/subscribe/token-plan
+  head: 74e904a
+  archived: false
+  latestVersion: v1.0.25
+  collectedAt: 2026-09-04T04:58:08Z
+timeline:
+  created: 2026-03-25
+  lastCommit: 2026-09-03
+  lastRelease: 2026-09-01
+popularity:
+  star: 2078
+  watcher: 11
+  fork: 165
+  release: 25
+  contributor: 29
+  pullRequest: 52
+  issue: 72
+language:
+  TypeScript: 712994
+  JavaScript: 455
+totalBytes: 713449
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 5
+    mergedPR: 13
+    openPR: 0
+    closedIssue: 3
+    openIssue: 4
+    commit: 22
+  last90d:
+    since: 2026-06-06
+    release: 8
+    mergedPR: 43
+    openPR: 12
+    closedIssue: 12
+    openIssue: 8
+    commit: 57
+  last180d:
+    since: 2026-03-08
+    release: 25
+    mergedPR: 131
+    openPR: 12
+    closedIssue: 62
+    openIssue: 10
+    commit: 259
+  last360d:
+    since: 2025-09-09
+    release: 25
+    mergedPR: 131
+    openPR: 12
+    closedIssue: 62
+    openIssue: 10
+    commit: 259
