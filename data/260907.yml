@@ -5,19 +5,19 @@ about:
   head: bfbb4cb
   archived: false
   latestVersion: "v1.0.25"
-  collectedAt: 2026-09-07T05:46:30Z
+  collectedAt: 2026-09-07T18:41:15Z
 timeline:
   created: 2026-03-25
   lastCommit: 2026-09-07
   lastRelease: 2026-09-01
 popularity:
-  star: 2086
+  star: 2087
   watcher: 11
   fork: 166
   release: 25
   contributor: 30
   pullRequest: 184
-  issue: 72
+  issue: 73
 language:
   TypeScript: 714333
   JavaScript: 455
@@ -29,7 +29,7 @@ recent:
     mergedPR: 14
     openPR: 0
     closedIssue: 4
-    openIssue: 3
+    openIssue: 4
     commit: 24
   last60d:
     since: 2026-07-09
@@ -37,7 +37,7 @@ recent:
     mergedPR: 40
     openPR: 11
     closedIssue: 8
-    openIssue: 5
+    openIssue: 6
     commit: 46
   last90d:
     since: 2026-06-09
@@ -45,7 +45,7 @@ recent:
     mergedPR: 42
     openPR: 12
     closedIssue: 12
-    openIssue: 6
+    openIssue: 7
     commit: 58
   last180d:
     since: 2026-03-11
@@ -53,7 +53,7 @@ recent:
     mergedPR: 132
     openPR: 12
     closedIssue: 63
-    openIssue: 9
+    openIssue: 10
     commit: 262
   last360d:
     since: 2025-09-12
@@ -61,7 +61,7 @@ recent:
     mergedPR: 132
     openPR: 12
     closedIssue: 63
-    openIssue: 9
+    openIssue: 10
     commit: 262
   last720d:
     since: 2024-09-17
@@ -69,18 +69,18 @@ recent:
     mergedPR: 132
     openPR: 12
     closedIssue: 63
-    openIssue: 9
+    openIssue: 10
     commit: 388
 total:
   release: 25
   mergedPR: 132
   openPR: 12
   closedIssue: 63
-  openIssue: 9
+  openIssue: 10
   commit: 388
 ---
 path: /home/runner/.x-repo/github.com/MiniMax-AI/cli
-collectedAt: 2026-09-07T05:46:31Z
+collectedAt: 2026-09-07T18:41:16Z
 loc:
   TypeScript:
     code: 18870
@@ -111,7 +111,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:46:32+00:00
+  collectedAt: 2026-09-07T18:41:17+00:00
   platform:
     darwin/arm64:
       name:  null
