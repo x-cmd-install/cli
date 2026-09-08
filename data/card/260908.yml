@@ -5,7 +5,7 @@ about:
   head: bfbb4cb
   archived: false
   latestVersion: "v1.0.25"
-  collectedAt: 2026-09-08T03:05:30Z
+  collectedAt: 2026-09-08T05:44:17Z
 timeline:
   created: 2026-03-25
   lastCommit: 2026-09-07
@@ -80,7 +80,7 @@ total:
   commit: 388
 ---
 path: /home/runner/.x-repo/github.com/MiniMax-AI/cli
-collectedAt: 2026-09-08T03:05:31Z
+collectedAt: 2026-09-08T05:44:18Z
 loc:
   TypeScript:
     code: 18870
