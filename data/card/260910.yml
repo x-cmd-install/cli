@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.0.25"
   latestRelease: "v1.0.25"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T17:56:59Z
+  collectedAt: 2026-09-10T23:56:49Z
 timeline:
   created: 2026-03-25
   lastCommit: 2026-09-07
@@ -84,7 +84,7 @@ total:
   commit: 388
 ---
 path: /home/runner/.x-repo/github.com/MiniMax-AI/cli
-collectedAt: 2026-09-10T17:57:00Z
+collectedAt: 2026-09-10T23:56:50Z
 loc:
   TypeScript:
     code: 18870
