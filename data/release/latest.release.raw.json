@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/MiniMax-AI/cli/releases/380269558",
-  "assets_url": "https://api.github.com/repos/MiniMax-AI/cli/releases/380269558/assets",
-  "upload_url": "https://uploads.github.com/repos/MiniMax-AI/cli/releases/380269558/assets{?name,label}",
-  "html_url": "https://github.com/MiniMax-AI/cli/releases/tag/v1.0.25",
-  "id": 380269558,
+  "url": "https://api.github.com/repos/MiniMax-AI/cli/releases/392108203",
+  "assets_url": "https://api.github.com/repos/MiniMax-AI/cli/releases/392108203/assets",
+  "upload_url": "https://uploads.github.com/repos/MiniMax-AI/cli/releases/392108203/assets{?name,label}",
+  "html_url": "https://github.com/MiniMax-AI/cli/releases/tag/v1.0.26",
+  "id": 392108203,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDORwlKEc4WqnP2",
-  "tag_name": "v1.0.25",
+  "node_id": "RE_kwDORwlKEc4XXxir",
+  "tag_name": "v1.0.26",
   "target_commitish": "main",
-  "name": "v1.0.25",
+  "name": "v1.0.26",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-09-01T06:52:04Z",
-  "updated_at": "2026-09-01T06:48:46Z",
-  "published_at": "2026-09-01T06:48:46Z",
+  "created_at": "2026-09-19T15:00:53Z",
+  "updated_at": "2026-09-19T15:01:47Z",
+  "published_at": "2026-09-19T15:01:22Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/MiniMax-AI/cli/tarball/v1.0.25",
-  "zipball_url": "https://api.github.com/repos/MiniMax-AI/cli/zipball/v1.0.25",
-  "body": "## What's Changed\n* feat: install missing agents during setup by @SaladDay in https://github.com/MiniMax-AI/cli/pull/247\n\n\n**Full Changelog**: https://github.com/MiniMax-AI/cli/compare/v1.0.24...v1.0.25",
-  "mentions_count": 1
+  "tarball_url": "https://api.github.com/repos/MiniMax-AI/cli/tarball/v1.0.26",
+  "zipball_url": "https://api.github.com/repos/MiniMax-AI/cli/zipball/v1.0.26",
+  "body": "## Highlights\n\n- Add speech-to-text with `mmx speech transcribe` and `sdk.speech.transcribe`, powered by `asr-1.0`. Supports language hints, JSON and detailed transcripts, sentence/word timestamps, SRT/WebVTT subtitles, and streamed text. (#262)\n- Improve agent detection for the Codex desktop app and embedded runtimes. (#252, #253)\n- Show seconds in the quota reset countdown. (#255)\n- Correctly classify search input and output content-filter errors. (#256)\n- Include the README in the npm package. (#250)\n\n## Try speech-to-text\n\n```bash\nmmx speech transcribe --file meeting.mp3\nmmx speech transcribe --file meeting.mp3 --language zh\nmmx speech transcribe --file meeting.mp3 --response-format srt --out meeting.srt\n```\n\nFor detailed timestamps and speaker information, use `--response-format verbose_json --output json`. When piping streamed text, use `--stream --output text`.\n\n## Upgrade\n\n```bash\nnpm install -g mmx-cli@1.0.26\nmmx --version\n```\n\n## What's Changed\n* fix: include README in npm package by @SaladDay in https://github.com/MiniMax-AI/cli/pull/250\n* fix: detect Codex runtime in desktop app by @SaladDay in https://github.com/MiniMax-AI/cli/pull/252\n* fix: detect embedded agent runtimes by @SaladDay in https://github.com/MiniMax-AI/cli/pull/253\n* fix(quota): show seconds in reset countdown by @SaladDay in https://github.com/MiniMax-AI/cli/pull/255\n* fix(search): map output sensitivity to content filter exit code by @renaissance04 in https://github.com/MiniMax-AI/cli/pull/256\n* feat: add mmx speech transcribe for speech-to-text (asr-1.0) by @Wzdhehe in https://github.com/MiniMax-AI/cli/pull/262\n\n## New Contributors\n* @renaissance04 made their first contribution in https://github.com/MiniMax-AI/cli/pull/256\n* @Wzdhehe made their first contribution in https://github.com/MiniMax-AI/cli/pull/262\n\n**Full Changelog**: https://github.com/MiniMax-AI/cli/compare/v1.0.25...v1.0.26\n",
+  "mentions_count": 3
 }
