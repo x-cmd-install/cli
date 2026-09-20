@@ -4,7 +4,7 @@
 
 Generate text, images, video, speech, and music by MiniMax.
 
-![cli](https://repo.x-cmd.io/cli.svg)
+[![x-cmd/install — cli Code Quality Monitoring Repo Card](https://repo.x-cmd.io/cli.svg)](https://x-cmd.com/install/cli)
 
 ## Install
 
@@ -14,14 +14,14 @@ x install cli
 
 ## Code insight
 
-Total: **20,262** lines of code across **179** files in the top 5 languages.
+Total: **21,594** lines of code across **184** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 18,870 | 481 | 2,430 | 158 |
+| TypeScript | 20,202 | 590 | 2,615 | 163 |
 | Json | 1,374 | 0 | 0 | 10 |
 | JavaScript | 18 | 0 | 1 | 1 |
-| Markdown | 0 | 1,006 | 437 | 10 |
+| Markdown | 0 | 1,079 | 451 | 10 |
 
 ## Source
 
@@ -31,27 +31,27 @@ Total: **20,262** lines of code across **179** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.0.25` (2026-09-01)
-- **Last commit**: 2026-09-07
+- **Latest**: `v1.0.26` (2026-09-19)
+- **Last commit**: 2026-09-19
 
 ## Popularity
 
-- **Stars**: 2,104 · **Forks**: 172 · **Open issues**: 76 · **Contributors**: 30
+- **Stars**: 2,154 · **Forks**: 181 · **Open issues**: 75 · **Contributors**: 31
 
 ## Totals (cumulative)
 
-- **Releases**: 25 · **Merged PRs**: 132 · **Open PRs**: 13 · **Closed issues**: 63 · **Open issues**: 13 · **Commits**: 388
+- **Releases**: 26 · **Merged PRs**: 133 · **Open PRs**: 14 · **Closed issues**: 62 · **Open issues**: 13 · **Commits**: 390
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 5 | 13 | 1 | 3 | 6 | 22 |
-| last60d | 2026-07-20 | 6 | 26 | 9 | 4 | 8 | 37 |
-| 90d | 2026-06-20 | 8 | 41 | 13 | 10 | 9 | 56 |
-| last180d | 2026-03-22 | 25 | 132 | 13 | 63 | 13 | 262 |
-| 360d | 2025-09-23 | 25 | 132 | 13 | 63 | 13 | 262 |
-| last720d | 2024-09-28 | 25 | 132 | 13 | 63 | 13 | 388 |
+| 30d | 2026-08-21 | 6 | 13 | 2 | 2 | 6 | 24 |
+| last60d | 2026-07-22 | 7 | 27 | 10 | 3 | 8 | 39 |
+| 90d | 2026-06-22 | 9 | 41 | 14 | 9 | 9 | 58 |
+| last180d | 2026-03-24 | 26 | 133 | 14 | 62 | 13 | 264 |
+| 360d | 2025-09-25 | 26 | 133 | 14 | 62 | 13 | 264 |
+| last720d | 2024-09-30 | 26 | 133 | 14 | 62 | 13 | 390 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for cli lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:01:21Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:00:51Z._
