@@ -4,7 +4,7 @@
 
 Generate text, images, video, speech, and music by MiniMax.
 
-[![x-cmd/install — cli Code Quality Monitoring Repo Card](https://repo.x-cmd.io/cli.svg?lang=zh)](https://x-cmd.com/install/cli)
+[![x-cmd/install — cli Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/cli.svg?lang=zh)](https://x-cmd.com/install/cli)
 
 ## 安装
 
@@ -36,22 +36,22 @@ x install cli
 
 ## 流行度
 
-- **Star**: 2,171 · **Fork**: 184 · **开放 issue**: 76 · **贡献者**: 31
+- **Star**: 2,172 · **Fork**: 184 · **开放 issue**: 76 · **贡献者**: 31
 
 ## 累计统计
 
-- **发布数**: 26 · **已合并 PR**: 133 · **开放 PR**: 16 · **已关闭 issue**: 62 · **开放 issue**: 14 · **提交数**: 390
+- **发布数**: 26 · **已合并 PR**: 133 · **开放 PR**: 18 · **已关闭 issue**: 62 · **开放 issue**: 14 · **提交数**: 390
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 4 | 13 | 4 | 1 | 7 | 21 |
-| last60d | 2026-07-24 | 7 | 27 | 12 | 3 | 9 | 39 |
-| 90d | 2026-06-24 | 9 | 41 | 16 | 9 | 10 | 57 |
-| last180d | 2026-03-26 | 26 | 132 | 16 | 62 | 14 | 236 |
-| 360d | 2025-09-27 | 26 | 133 | 16 | 62 | 14 | 264 |
-| last720d | 2024-10-02 | 26 | 133 | 16 | 62 | 14 | 390 |
+| 30d | 2026-08-24 | 4 | 13 | 6 | 1 | 7 | 21 |
+| last60d | 2026-07-25 | 7 | 27 | 14 | 3 | 9 | 39 |
+| 90d | 2026-06-25 | 9 | 41 | 18 | 9 | 10 | 57 |
+| last180d | 2026-03-27 | 26 | 131 | 18 | 62 | 14 | 236 |
+| 360d | 2025-09-28 | 26 | 133 | 18 | 62 | 14 | 264 |
+| last720d | 2024-10-03 | 26 | 133 | 18 | 62 | 14 | 390 |
 
 ## 改进这些数据
 
@@ -62,4 +62,4 @@ cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T06:17:31Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T06:24:41Z._

@@ -4,7 +4,7 @@
 
 Generate text, images, video, speech, and music by MiniMax.
 
-[![x-cmd/install — cli Code Quality Monitoring Repo Card](https://repo.x-cmd.io/cli.svg)](https://x-cmd.com/install/cli)
+[![x-cmd/install — cli Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/cli.svg)](https://x-cmd.com/install/cli)
 
 ## Install
 
@@ -36,22 +36,22 @@ Total: **21,594** lines of code across **184** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,171 · **Forks**: 184 · **Open issues**: 76 · **Contributors**: 31
+- **Stars**: 2,172 · **Forks**: 184 · **Open issues**: 76 · **Contributors**: 31
 
 ## Totals (cumulative)
 
-- **Releases**: 26 · **Merged PRs**: 133 · **Open PRs**: 16 · **Closed issues**: 62 · **Open issues**: 14 · **Commits**: 390
+- **Releases**: 26 · **Merged PRs**: 133 · **Open PRs**: 18 · **Closed issues**: 62 · **Open issues**: 14 · **Commits**: 390
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 4 | 13 | 4 | 1 | 7 | 21 |
-| last60d | 2026-07-24 | 7 | 27 | 12 | 3 | 9 | 39 |
-| 90d | 2026-06-24 | 9 | 41 | 16 | 9 | 10 | 57 |
-| last180d | 2026-03-26 | 26 | 132 | 16 | 62 | 14 | 236 |
-| 360d | 2025-09-27 | 26 | 133 | 16 | 62 | 14 | 264 |
-| last720d | 2024-10-02 | 26 | 133 | 16 | 62 | 14 | 390 |
+| 30d | 2026-08-24 | 4 | 13 | 6 | 1 | 7 | 21 |
+| last60d | 2026-07-25 | 7 | 27 | 14 | 3 | 9 | 39 |
+| 90d | 2026-06-25 | 9 | 41 | 18 | 9 | 10 | 57 |
+| last180d | 2026-03-27 | 26 | 131 | 18 | 62 | 14 | 236 |
+| 360d | 2025-09-28 | 26 | 133 | 18 | 62 | 14 | 264 |
+| last720d | 2024-10-03 | 26 | 133 | 18 | 62 | 14 | 390 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for cli lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:17:30Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:24:41Z._
