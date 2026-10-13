@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/MiniMax-AI/cli/releases/399146597",
-  "assets_url": "https://api.github.com/repos/MiniMax-AI/cli/releases/399146597/assets",
-  "upload_url": "https://uploads.github.com/repos/MiniMax-AI/cli/releases/399146597/assets{?name,label}",
-  "html_url": "https://github.com/MiniMax-AI/cli/releases/tag/v1.0.27",
-  "id": 399146597,
+  "url": "https://api.github.com/repos/MiniMax-AI/cli/releases/410374093",
+  "assets_url": "https://api.github.com/repos/MiniMax-AI/cli/releases/410374093/assets",
+  "upload_url": "https://uploads.github.com/repos/MiniMax-AI/cli/releases/410374093/assets{?name,label}",
+  "html_url": "https://github.com/MiniMax-AI/cli/releases/tag/v1.0.28",
+  "id": 410374093,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDORwlKEc4Xyn5l",
-  "tag_name": "v1.0.27",
+  "node_id": "RE_kwDORwlKEc4Ydc_N",
+  "tag_name": "v1.0.28",
   "target_commitish": "main",
-  "name": "v1.0.27",
+  "name": "v1.0.28",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-09-29T12:53:33Z",
-  "updated_at": "2026-09-29T12:54:15Z",
-  "published_at": "2026-09-29T12:54:15Z",
+  "created_at": "2026-10-12T08:31:10Z",
+  "updated_at": "2026-10-12T08:32:25Z",
+  "published_at": "2026-10-12T08:31:56Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/MiniMax-AI/cli/tarball/v1.0.27",
-  "zipball_url": "https://api.github.com/repos/MiniMax-AI/cli/zipball/v1.0.27",
-  "body": "## What's Changed\n* feat: align agent setup with MiniMax M3.1 Flash Preview by @Qu-Ming-1 in https://github.com/MiniMax-AI/cli/pull/272\n\n\n**Full Changelog**: https://github.com/MiniMax-AI/cli/compare/v1.0.26...v1.0.27",
+  "tarball_url": "https://api.github.com/repos/MiniMax-AI/cli/tarball/v1.0.28",
+  "zipball_url": "https://api.github.com/repos/MiniMax-AI/cli/zipball/v1.0.28",
+  "body": "## Highlights\n\n- Add Oh my Pi support to `mmx agent setup` (`--agent oh-my-pi`, alias `omp`), including interactive installation and native YAML configuration with profile support.\n- Default `mmx text chat`, `mmx text repl`, and SDK text requests to `MiniMax-M3.1-Flash-Preview`. Explicit model selections and the CLI's saved `default-text-model` still take precedence.\n- Agent setup defaults to M3.1 Flash Preview for subscription keys and MiniMax-M3 for pay-as-you-go keys.\n\n**Model availability:** M3.1 Flash Preview currently requires M Plan or MiniMax Code. For pay-as-you-go text requests, explicitly select `MiniMax-M3`.\n\n## What's Changed\n\n* feat: add Oh my Pi setup and default text to M3.1 Flash Preview by @jellyjelly814 in https://github.com/MiniMax-AI/cli/pull/282\n\n## New Contributors\n\n* @jellyjelly814 made their first contribution in https://github.com/MiniMax-AI/cli/pull/282\n\n**Full Changelog**: https://github.com/MiniMax-AI/cli/compare/v1.0.27...v1.0.28\n",
   "mentions_count": 1
 }
