@@ -14,11 +14,11 @@ x install cli
 
 ## Code insight
 
-Total: **22,447** lines of code across **186** files in the top 5 languages.
+Total: **22,713** lines of code across **187** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 21,055 | 596 | 2,676 | 165 |
+| TypeScript | 21,321 | 600 | 2,695 | 166 |
 | Json | 1,374 | 0 | 0 | 10 |
 | JavaScript | 18 | 0 | 1 | 1 |
 | Markdown | 0 | 1,086 | 458 | 10 |
@@ -32,26 +32,26 @@ Total: **22,447** lines of code across **186** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.0.28` (2026-10-12)
-- **Last commit**: 2026-10-12
+- **Last commit**: 2026-10-16
 
 ## Popularity
 
-- **Stars**: 2,192 · **Forks**: 192 · **Open issues**: 83 · **Contributors**: 31
+- **Stars**: 2,190 · **Forks**: 193 · **Open issues**: 83 · **Contributors**: 32
 
 ## Totals (cumulative)
 
-- **Releases**: 28 · **Merged PRs**: 135 · **Open PRs**: 30 · **Closed issues**: 65 · **Open issues**: 18 · **Commits**: 399
+- **Releases**: 28 · **Merged PRs**: 138 · **Open PRs**: 28 · **Closed issues**: 65 · **Open issues**: 18 · **Commits**: 404
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 3 | 3 | 17 | 2 | 5 | 10 |
-| last60d | 2026-08-17 | 8 | 16 | 18 | 5 | 11 | 34 |
-| 90d | 2026-07-18 | 9 | 30 | 27 | 6 | 13 | 48 |
-| last180d | 2026-04-19 | 16 | 79 | 30 | 32 | 18 | 142 |
-| 360d | 2025-10-21 | 28 | 135 | 30 | 65 | 18 | 272 |
-| last720d | 2024-10-26 | 28 | 135 | 30 | 65 | 18 | 399 |
+| 30d | 2026-09-17 | 3 | 6 | 15 | 2 | 5 | 13 |
+| last60d | 2026-08-18 | 8 | 19 | 16 | 5 | 11 | 37 |
+| 90d | 2026-07-19 | 9 | 33 | 25 | 6 | 13 | 51 |
+| last180d | 2026-04-20 | 16 | 81 | 28 | 31 | 18 | 145 |
+| 360d | 2025-10-22 | 28 | 138 | 28 | 65 | 18 | 275 |
+| last720d | 2024-10-27 | 28 | 138 | 28 | 65 | 18 | 404 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for cli lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T05:26:14Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T05:12:07Z._
