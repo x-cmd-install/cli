@@ -36,22 +36,22 @@ Total: **22,816** lines of code across **188** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,202 · **Forks**: 197 · **Open issues**: 83 · **Contributors**: 32
+- **Stars**: 2,204 · **Forks**: 197 · **Open issues**: 83 · **Contributors**: 32
 
 ## Totals (cumulative)
 
-- **Releases**: 28 · **Merged PRs**: 144 · **Open PRs**: 31 · **Closed issues**: 65 · **Open issues**: 18 · **Commits**: 410
+- **Releases**: 28 · **Merged PRs**: 144 · **Open PRs**: 32 · **Closed issues**: 65 · **Open issues**: 18 · **Commits**: 410
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 2 | 11 | 14 | 1 | 5 | 17 |
-| last60d | 2026-08-24 | 6 | 24 | 19 | 4 | 11 | 38 |
-| 90d | 2026-07-25 | 9 | 38 | 27 | 6 | 13 | 56 |
-| last180d | 2026-04-26 | 16 | 84 | 31 | 30 | 18 | 146 |
-| 360d | 2025-10-28 | 28 | 144 | 31 | 65 | 18 | 281 |
-| last720d | 2024-11-02 | 28 | 144 | 31 | 65 | 18 | 410 |
+| 30d | 2026-09-24 | 2 | 11 | 15 | 1 | 5 | 17 |
+| last60d | 2026-08-25 | 6 | 24 | 20 | 4 | 11 | 38 |
+| 90d | 2026-07-26 | 9 | 38 | 28 | 6 | 13 | 56 |
+| last180d | 2026-04-27 | 15 | 84 | 32 | 29 | 18 | 146 |
+| 360d | 2025-10-29 | 28 | 144 | 32 | 65 | 18 | 281 |
+| last720d | 2024-11-03 | 28 | 144 | 32 | 65 | 18 | 410 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for cli lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T05:41:59Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T05:46:16Z._
